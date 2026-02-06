@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.hot, 
+.cool {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cool {
+    font-size: 20px;
+}
+
+#white {
+    font-size: 30px;
+    color: blue;
+}
+
+#black {
+    background-color: greenyellow;
+    font-weight: bold;
+}
