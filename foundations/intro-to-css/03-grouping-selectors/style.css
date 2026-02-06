@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.me,
+.nome {
+    font-size: 30px;
+}
+
+.me {
+    background-color: black;
+    color: white;
+}
+
+.nome {
+    background-color: yellow;
+    color: black;
+}
